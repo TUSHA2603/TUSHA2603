@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">A Passionate Java Full Stack Developer<br><br>- 📚 <br>- ⚡ How to reach me tusharrawool76@gmail.com</p>
+<p align="center">A Passionate Web Developer<br><br>- 📚 <br>- ⚡ How to reach me tusharrawool76@gmail.com</p>
 
 
 <div align="center">
