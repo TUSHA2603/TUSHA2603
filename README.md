@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <a href="www.linkedin.com/in/tushar-rawool-tr2603" target="_blank">
+  <a href="www.linkedin.com/in/tushar-rawool" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
